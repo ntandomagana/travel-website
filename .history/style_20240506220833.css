@@ -20,39 +20,7 @@ body {
 }
 
 body {
-    font-family: "Poppins", sans-serif;
-    background-image: url(assets/header-bg.png);
-    background-size: contain;
-    background-position: top center;
-    background-repeat: no-repeat;
-}
-
-nav {
-    position: fixed;
-    isolation: isolate;
-    width: 100%;
-    max-width: var(--max-width);
-    margin-inline: auto;
-    z-index: 9;
-}
-
-.nav-header {
-    padding: 1rem;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: var(--text-dark);
-}
-
-.nav-logo .logo {
-    color: var(--white);
-}
-
-.nav-menu-btn {
-    font-size: 1rem;
-    color: var(--white);
-    cursor: pointer;
+    font-family: ;
 }
 .section-container {
   max-width: var(--max-width);

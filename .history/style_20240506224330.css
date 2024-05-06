@@ -46,13 +46,11 @@ nav {
 }
 
 .nav-logo .logo {
-    color: var(--white);
+    color: #ffffff;
 }
 
 .nav-menu-btn {
-    font-size: 1rem;
-    color: var(--white);
-    cursor: pointer;
+    font-size: ;
 }
 .section-container {
   max-width: var(--max-width);

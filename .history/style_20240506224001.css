@@ -46,14 +46,9 @@ nav {
 }
 
 .nav-logo .logo {
-    color: var(--white);
+    color
 }
 
-.nav-menu-btn {
-    font-size: 1rem;
-    color: var(--white);
-    cursor: pointer;
-}
 .section-container {
   max-width: var(--max-width);
   margin: auto;

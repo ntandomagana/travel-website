@@ -42,18 +42,9 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: var(--text-dark);
+    backgrou
 }
 
-.nav-logo .logo {
-    color: var(--white);
-}
-
-.nav-menu-btn {
-    font-size: 1rem;
-    color: var(--white);
-    cursor: pointer;
-}
 .section-container {
   max-width: var(--max-width);
   margin: auto;

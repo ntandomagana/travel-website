@@ -440,20 +440,4 @@ ul {
 
 .footer-discover {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-}
-
-.footer-discover img {
-    max-width: 120px;
-    border-radius: 1rem;
-}
-
-.footer-bar {
-    padding: 1rem;
-    font-size: 0.9rem;
-    color: var(--text-light);
-    text-align: center;
-
 }

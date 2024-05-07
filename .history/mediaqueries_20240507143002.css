@@ -1,0 +1,7 @@
+@media (width > 540px) {
+    .service-grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .destination-grid []
+}

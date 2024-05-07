@@ -430,30 +430,5 @@ ul {
     color: var(--white);
     background-color: var(--primary-color);
 }
-.footer-col h5 {
-    margin-bottom: 1rem;
-    font-size: 1.1rem;
-    font-weight: 500;
-    color: var(--text-light);
-}
 
 
-.footer-discover {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-}
-
-.footer-discover img {
-    max-width: 120px;
-    border-radius: 1rem;
-}
-
-.footer-bar {
-    padding: 1rem;
-    font-size: 0.9rem;
-    color: var(--text-light);
-    text-align: center;
-
-}

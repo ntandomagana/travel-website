@@ -414,7 +414,6 @@ ul {
     margin-bottom: 2rem;
     display: flex;
     align-items: center;
-    justify-content: center;
     gap: 1rem;
 }
 
@@ -423,37 +422,5 @@ ul {
     font-size: 1.25rem;
     color: var(--text-dark);
     border-radius: 100%;
-    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
-}
-
-.footer-socials a:hover {
-    color: var(--white);
-    background-color: var(--primary-color);
-}
-.footer-col h5 {
-    margin-bottom: 1rem;
-    font-size: 1.1rem;
-    font-weight: 500;
-    color: var(--text-light);
-}
-
-
-.footer-discover {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-}
-
-.footer-discover img {
-    max-width: 120px;
-    border-radius: 1rem;
-}
-
-.footer-bar {
-    padding: 1rem;
-    font-size: 0.9rem;
-    color: var(--text-light);
-    text-align: center;
-
+    box-shadow: 5px 5px
 }

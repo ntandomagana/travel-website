@@ -1,0 +1,24 @@
+@media (width > 540px) {
+    .service-grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .destination-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .footer-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .footer-col:nth-child(4) {
+        grid-area: 2/1/3/2;
+    }
+}
+
+@media (width > 768px) {
+    nav {
+        position: static;
+        padding
+    }
+}

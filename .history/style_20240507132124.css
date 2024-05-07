@@ -229,7 +229,3 @@ ul {
     font-weight: 600;
     color: var(--text-dark);
 }
-
-.service__card p {
-    color: var(--text-light);
-}

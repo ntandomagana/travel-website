@@ -322,7 +322,3 @@ ul {
 .trip__list li:nth-child(3) span {
   background-color: #006380;
 }
-
-.trip-list p {
-    color: var(--text-light);
-}
